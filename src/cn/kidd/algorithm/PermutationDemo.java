@@ -22,7 +22,8 @@ public class PermutationDemo {
     for (int i = 0; i < list.size(); i++) {
       System.out.print(list.get(i) + " ");
     }
-    System.out.println("------------------------------");
+    System.out.println("");
+    System.out.println("--------------------------------------------------");
     List<List<Integer>> list2 = permutate2(arr);
     for (int i = 0; i < list2.size(); i++) {
       System.out.print(list2.get(i) + " ");

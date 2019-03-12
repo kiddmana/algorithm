@@ -13,7 +13,7 @@ package cn.kidd.algorithm;
 public class DeleteNumDemo {
 
   public static void main(String[] args) {
-    int result = getMinNum(56317, 3);
+    int result = getMinNum(56321, 3);
     System.out.println("result = " + result);
   }
   
