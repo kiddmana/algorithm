@@ -11,7 +11,6 @@ public class EditDistanceDemo {
 
   public static void main(String[] args) {
     System.out.println(getEditDistance("aabd","aCd"));
-    
   }
   
   public static boolean getEditDistance(String s1,String s2){
